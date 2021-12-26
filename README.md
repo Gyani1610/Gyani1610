@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 🤔 My recently completed project is [Sharp-Shooter](https://gyani-kumari.itch.io/sharp-shooter)
+- 🤔 My recently completed project are [Sharp-Shooter](https://gyani-kumari.itch.io/sharp-shooter)[Portfolio Web](https://gyani1610.github.io/Portfolio-Website) and [Taskito](https://gyani1610.github.io/Taskito)
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/Gyani1610?tab=repositories)
 
