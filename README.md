@@ -23,7 +23,7 @@
 
 - 👀 Apart from this I love to code and I'm into Web Development Club and Game Development Club also.
 
-- 📧 Mail me **gyanik.ug20.cse@nitp.ac.in**
+- 📧 Mail me **gyaniedu16@gmail.com**
 
 
 <h1 align="center">🏅 My Tech-Stack:</h1>
