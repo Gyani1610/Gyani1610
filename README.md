@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 🤔 My recently completed projects are [Sharp-Shooter](https://gyani-kumari.itch.io/sharp-shooter), [Portfolio Web](https://gyani1610.github.io/Portfolio-Website) and [Taskito](https://gyani1610.github.io/Taskito)
+- 🤔 My recently completed projects are [Sharp-Shooter](https://gyani-kumari.itch.io/sharp-shooter), [Portfolio Web](https://gyani1610.github.io/) and [Taskito](https://gyani1610.github.io/Taskito)
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/Gyani1610?tab=repositories)
 
@@ -38,7 +38,7 @@
 
 <h1 align="center">✨My Streak:</h1>
 <p align="center">
-    <a href="https://github.com/FirdausJawed/github-readme-streak-stats">
+    <a href="https://github.com/Gyani1610/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gyani1610" src="https://github-readme-streak-stats.herokuapp.com/?user=Gyani1610&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
