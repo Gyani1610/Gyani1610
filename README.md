@@ -1,7 +1,7 @@
 
 <a href="#"><p align="center" ><img width="300px" height="300px" src="/gyani.jpg" height="175px"/></p></a>
 
-<h1 align="center">Hii there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gyani Kumari😇</h1>
+<h1 align="center">Hii there 👋, I'm Gyani Kumari😇</h1>
 <h3 align="center">Sophomere at NIT Patna 👩‍🎓 || Enthusiastic Scholar || Active learner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gyani1610" alt="Gyani1610" /> </p>
 
